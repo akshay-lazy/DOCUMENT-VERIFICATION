@@ -1,0 +1,8 @@
+FICTIONAL SAMPLE DOCUMENT
+Name: Sample Student
+Date of Birth: 01/01/2000
+Address: 123 Example Street, Sample City
+Document ID: DEMO-12345
+
+This document is fictional and created only for testing VeriAI.
+It is not an official identity document.
